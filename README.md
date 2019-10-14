@@ -1,1 +1,1 @@
-# fractal-viewer
+# Mandelbrot
